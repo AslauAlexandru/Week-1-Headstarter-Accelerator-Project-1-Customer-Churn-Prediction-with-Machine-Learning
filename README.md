@@ -21,6 +21,35 @@ In this project, you will build an end-to-end pipeline for a customer churn pred
 - EstimatedSalary—as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
 - Exited—whether or not the customer left the bank.
 
+## Steps for run
+First run in the google colab (or in jupyter notebook local), after that download the machine learning models as .pkl pickle.
+Second upload the machine learning models as .pkl pickle to Replit (or in other evironment).
+In my case I use these steps.
+
+## Web application with streamlit
+I use Replit for web application.
+The web app utilizes the following machine learning models for churn prediction:
+- **XGBoost**
+- **Random Forest**
+- **K-Nearest Neighbors**
+- **Support Vector Machine**
+- **Gradient Boosting**
+- **optional to use**: **Decision Tree** and **Naive Bays**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
