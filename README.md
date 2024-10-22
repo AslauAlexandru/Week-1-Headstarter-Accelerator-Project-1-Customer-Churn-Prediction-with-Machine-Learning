@@ -29,7 +29,7 @@ In my case I use these steps.
 
 ## Web application with streamlit
 I use Replit for web application.
-The web app utilizes the following machine learning models for churn prediction:
+The [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-Project-1-Customer-Churn-Prediction-with-Machine-Learning/blob/main/main.py) utilizes the following machine learning models for churn prediction:
 - **XGBoost**
 - **Random Forest**
 - **K-Nearest Neighbors**
