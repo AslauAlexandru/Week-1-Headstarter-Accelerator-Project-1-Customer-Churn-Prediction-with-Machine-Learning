@@ -23,10 +23,7 @@ In this project, you will build an end-to-end pipeline for a customer churn pred
 
 ## Steps for run
 [Customer Churn Prediction with Machine Learning](https://colab.research.google.com/drive/1mpzJq3KFtJo6nFICotTI6ZHg7wrr3p9u?usp=sharing) (google colab) and [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-Project-1-Customer-Churn-Prediction-with-Machine-Learning/blob/main/main.py).
-First run in the google colab (or in jupyter notebook local) '''python 
-Week_1_Headstarter_Accelerator_Project_1_Customer_Churn_Prediction_with_Machine_Learning.ipynb
-''', after that download the machine learning models as .pkl pickle.
-Second upload the machine learning models as .pkl pickle to Replit (or in other evironment).
+First run in the google colab (or in jupyter notebook local), after that download the machine learning models as .pkl pickle. Second upload the machine learning models as .pkl pickle to Replit (or in other evironment). [*Week_1_Headstarter_Accelerator_Project_1_Customer_Churn_Prediction_with_Machine_Learning.ipynb*](https://colab.research.google.com/drive/1mpzJq3KFtJo6nFICotTI6ZHg7wrr3p9u?usp=sharing) and web app [*main.py*]()
 In my case I use these steps.
 
 ## Web application with streamlit
