@@ -36,7 +36,7 @@ The [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-P
 - **Gradient Boosting**
 - **optional to use**: **Decision Tree** and **Naive Bays**
 
-## Web app via API
+## Web app via API (optional)
 You can try this code, but replace with your URL:
 ```python
 # You can try in google colab or jupyter notebook or other environment
