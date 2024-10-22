@@ -4,7 +4,7 @@ In this project, you will build an end-to-end pipeline for a customer churn pred
 
 [Churn for Bank Customers](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers) Dataset from Kaggle. Predict customer churn in a bank. 
 
-# About Dataset
+## About Dataset
 **Content**
 - RowNumber—corresponds to the record (row) number and has no effect on the output.
 - CustomerId—contains random values and has no effect on customer leaving the bank.
