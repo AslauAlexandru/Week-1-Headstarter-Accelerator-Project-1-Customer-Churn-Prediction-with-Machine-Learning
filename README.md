@@ -38,7 +38,7 @@ The [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-P
 
 ## Web app via API
 You can try this code, but replace with your URL:
-'''python
+```python
 # You can try in google colab or jupyter notebook or other environment
 
 import requests
@@ -71,7 +71,7 @@ if response.status_code == 200:
     print(result)
 else:
     print("Error:", response.status_code, response.text)
-'''
+```
 
 
 
