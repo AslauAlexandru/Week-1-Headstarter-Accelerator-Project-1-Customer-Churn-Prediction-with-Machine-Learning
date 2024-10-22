@@ -27,7 +27,7 @@ First run in the google colab (or in jupyter notebook local), after that downloa
 
 
 ## Web application with streamlit
-I use Replit for [web application]().
+I use Replit for [web application](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-Project-1-Customer-Churn-Prediction-with-Machine-Learning/blob/main/main.py).
 The [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-Project-1-Customer-Churn-Prediction-with-Machine-Learning/blob/main/main.py) utilizes the following machine learning models for churn prediction:
 - **XGBoost**
 - **Random Forest**
