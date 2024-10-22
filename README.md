@@ -38,6 +38,41 @@ The [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-P
 
 ## Web app via API
 You can try this code, but replace with your URL:
+'''python
+# You can try in google colab or jupyter notebook or other environment
+
+import requests
+import json
+
+# URL of your deployed model
+url = "https://churn-ml-models.onrender.com/predict"
+
+# Sample customer data
+customer_data = {
+    "CreditScore": 200,
+    "Geography": "France",
+    "Gender": "Male",
+    "Age": 35,
+    "Tenure": 0,
+    "Balance": 0,
+    "NumOfProducts": 3,
+    "HasCrCard": 1,
+    "IsActiveMember": 0,
+    "EstimatedSalary": 8
+}
+
+# Send POST request
+response = requests.post(url, json=customer_data)
+
+# Check if the request was successful
+if response.status_code == 200:
+    # Parse the JSON response
+    result = response.json()
+    print(result)
+else:
+    print("Error:", response.status_code, response.text)
+'''
+
 
 
 
