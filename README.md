@@ -22,7 +22,7 @@ In this project, you will build an end-to-end pipeline for a customer churn pred
 - Exited—whether or not the customer left the bank.
 
 ## Steps for run
-[Customer Churn Prediction with Machine Learning](https://colab.research.google.com/drive/1mpzJq3KFtJo6nFICotTI6ZHg7wrr3p9u?usp=sharing) (google colab) and [web app]().
+[Customer Churn Prediction with Machine Learning](https://colab.research.google.com/drive/1mpzJq3KFtJo6nFICotTI6ZHg7wrr3p9u?usp=sharing) (google colab) and [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-Project-1-Customer-Churn-Prediction-with-Machine-Learning/blob/main/main.py).
 First run in the google colab (or in jupyter notebook local), after that download the machine learning models as .pkl pickle.
 Second upload the machine learning models as .pkl pickle to Replit (or in other evironment).
 In my case I use these steps.
