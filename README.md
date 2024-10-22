@@ -36,6 +36,8 @@ The [web app](https://github.com/AslauAlexandru/Week-1-Headstarter-Accelerator-P
 - **Gradient Boosting**
 - **optional to use**: **Decision Tree** and **Naive Bays**
 
+## Web app via API
+You can try this code, but replace with your URL:
 
 
 
